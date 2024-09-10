@@ -8,7 +8,7 @@ Presentationer, mail meddelanden och hemsidor.
 läsa filerna med ett annan text redigerings program. 
 - Jag har lärt mig att desto fler kommandon man lär sig desto smidigare och snabbare får man jobben gjorda.
 
-
+## Terminal
 | Commands | Beskrivning |
 |---|---|
 | `ls`    | listar filer och kataloger i nuvarande katalog |
@@ -16,15 +16,19 @@ läsa filerna med ett annan text redigerings program.
 | `rm`    | tar bort en fil |
 | `cat`   | visar innehållet i en fil |
 | `head`  | visar de första 10 raderna i en fil |
-## Git cmd 
-- `git init` - skapa en lokal git "repository"
-- `git clone` - skapa en kopiering av en fjärrstyrd "repository"
-- `git status` - kolla status 
-- `git commit -m` - gör ändringar
-- `git branch` - lista "brancher"
 
 
-## GitHub 
+## Git 
+| Commands | Beskrivning |
+|---|---|
+| `git init` | skapa en lokal git "repository" |
+| `git clone` | skapa en kopiering av en fjärrstyrd "repository" |
+| `git status` | kolla status |
+| `git commit -m` | gör ändringar |
+| `git branch` | lista "brancher" |
+
+
+##  
 ![alt text](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200)
 
 
