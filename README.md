@@ -1,4 +1,4 @@
-# Researchuppgift: Git, Github och Terminalen
+# <span style="color:#0969DA"> Researchuppgift: Git, Github och Terminalen</span>
 
 
 ## Nytt jag lärt mig
@@ -10,7 +10,7 @@ läsa filerna med ett annan text redigerings program.
 
 
 ## Terminal cmd
-- [ls]  listar filer och kataloger i nuvarande katalog
+- `ls`  listar filer och kataloger i nuvarande katalog
 - [mkdir] - Skapar en ny katalog 
 - [rm] - tar bort en fil 
 - [cat] - visar innehållet i en fil 
