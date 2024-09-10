@@ -29,7 +29,7 @@ läsa filerna med ett annan text redigerings program.
 
 
  
-![alt text](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200) >Github logo
+![alt text](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200) > Github logo
 
 
 #### Källor
