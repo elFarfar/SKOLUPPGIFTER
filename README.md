@@ -9,14 +9,13 @@ läsa filerna med ett annan text redigerings program.
 - Jag har lärt mig att desto fler kommandon man lär sig desto smidigare och snabbare får man jobben gjorda.
 
 
-## Terminal cmd
---------------------------------------------------
-| `ls`    | listar filer och kataloger i nuvarande katalog
-| `mkdir` | Skapar en ny katalog 
-| `rm`    | tar bort en fil 
-| `cat`   | visar innehållet i en fil 
-| `head`  | visar de första 10 raderna i en fil
---------------------------------------------------
+| Commands | Beskrivning |
+|---|---|
+| `ls`    | listar filer och kataloger i nuvarande katalog |
+| `mkdir` | Skapar en ny katalog |
+| `rm`    | tar bort en fil |
+| `cat`   | visar innehållet i en fil |
+| `head`  | visar de första 10 raderna i en fil |
 ## Git cmd 
 - `git init` - skapa en lokal git "repository"
 - `git clone` - skapa en kopiering av en fjärrstyrd "repository"
