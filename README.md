@@ -28,8 +28,8 @@ läsa filerna med ett annan text redigerings program.
 | `git branch` | lista "brancher" |
 
 
-##  
-![alt text](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200)
+ 
+![alt text](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200) >Github logo
 
 
 #### Källor
