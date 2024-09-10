@@ -1,4 +1,4 @@
-# <span style="color:#0969DA"> Researchuppgift: Git, Github och Terminalen</span>
+# Researchuppgift: Git, Github och Terminalen
 
 
 ## Nytt jag lärt mig
@@ -11,16 +11,16 @@ läsa filerna med ett annan text redigerings program.
 
 ## Terminal cmd
 - `ls`  listar filer och kataloger i nuvarande katalog
-- [mkdir] - Skapar en ny katalog 
-- [rm] - tar bort en fil 
-- [cat] - visar innehållet i en fil 
-- [head] - visar de första 10 raderna i en fil
+- `mkdir` - Skapar en ny katalog 
+- `rm` - tar bort en fil 
+- `cat` - visar innehållet i en fil 
+- `head` - visar de första 10 raderna i en fil
 ## Git cmd 
-- [git init] - skapa en lokal git "repository"
-- [git clone] - skapa en kopiering av en fjärrstyrd "repository"
-- [git status] - kolla status 
-- [git commit -m] - gör ändringar
-- [git branch] - lista "brancher"
+- `git init` - skapa en lokal git "repository"
+- `git clone` - skapa en kopiering av en fjärrstyrd "repository"
+- `git status` - kolla status 
+- `git commit -m` - gör ändringar
+- `git branch` - lista "brancher"
 
 
 ## GitHub 
