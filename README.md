@@ -34,6 +34,6 @@ läsa filerna med ett annan text redigerings program.
 
 
 #### Källor
-- https://phoenixnap.com/kb/mac-terminal-commands
+- [Phoenix](https://phoenixnap.com/kb/mac-terminal-commands)
 - https://www.markdownguide.org/getting-started/
 - https://github.blog/
