@@ -1,4 +1,5 @@
 # Researchuppgift: Git, Github och Terminalen
+</b>
 
 
 ## Nytt jag lärt mig
@@ -29,7 +30,7 @@ läsa filerna med ett annan text redigerings program.
 
 
  
-![alt text](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200) _Git Logo_
+![github logo](https://github.blog/wp-content/uploads/2023/10/Enterprise-LightMode-4.png?w=1200) _Git Logo_
 
 
 #### Källor
